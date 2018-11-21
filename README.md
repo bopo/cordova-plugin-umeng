@@ -9,7 +9,7 @@
 
 ## 使用说明
 ### 1.安装插件
-cordova plugins add https://github.com/bopo/cordova-plugin.git
+cordova plugins add https://github.com/bopo/cordova-plugin-umeng.git
 
 ### 2.调用
 
