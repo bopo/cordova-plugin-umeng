@@ -1,6 +1,6 @@
 {
-  "name": "hewz.plugins.umeng",
-  "version": "1.3.0",
+  "name": "bopo.plugins.umeng",
+  "version": "1.0.0",
   "description": "Cordova Umeng analyics plugin",
   "dependencies": {}
 }
